@@ -1,3 +1,6 @@
 .FORM_ERROR {
   border-color: red;
 }
+.FORM {
+  padding-left: 2rem;
+}
